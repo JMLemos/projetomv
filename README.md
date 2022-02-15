@@ -15,16 +15,7 @@ CONTROLLER - É a responsabilidade de ligar as duas camadas (MODEL e REPOSITORY)
 
 ## ▶️Tecnologias utilizadas ⚙️
 
-Programação:
-<img align = "center" alt = "Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-
-Framework:
-<img align = "center "alt = "SPRING "src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>   
-
-Banco de Dados:
-<img align = "center "alt = "MY SQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-
+JAVA | MAVEN | JPA | SPRINGBOOT | MYSQL | POSTMAN
 
 ## ▶️ DONE ✔️
 
